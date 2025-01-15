@@ -1,0 +1,4 @@
+.venv\Scripts\Activate.ps1  (activate venv)
+install the libraries in main.py file 
+
+fastapi dev main.py
